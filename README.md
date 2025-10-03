@@ -185,8 +185,3 @@ Authorization: Bearer <token>
 ---
 
 ```
-
----
-
-👉 Rohit, do you want me to also include a **Docker setup section** in the README (Dockerfile + docker-compose with Mongo), or do you want to keep it simple for now?
-```
